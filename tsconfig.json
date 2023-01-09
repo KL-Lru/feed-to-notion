@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    /* Language and Environment */
+    "target": "ES5",
+    "lib": ["ESNext"],
+
+    /* Modules */
+    "module": "CommonJS",
+    "rootDir": "./src",
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "esModuleInterop": true,
+
+    /* Type Checking */
+    "strict": true,
+
+    /* Completeness */
+    "skipLibCheck": true
+  }
+}
